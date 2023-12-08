@@ -27,10 +27,10 @@
 
 <h2 align="center"> Star the repo if u like it and depoly 🌟
 </h2>
+## Notice
 
-## `Notice`
+❝𝐃𝐨𝐧𝐭'𝐭 𝐅𝐨𝐫𝐠𝐞𝐭 𝐓𝐨 **𝐒𝐘𝐍𝐂 𝐅𝐎𝐑𝐊* 𝐓𝐡𝐞 𝐑𝐞𝐬𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐁𝐞𝐟𝐨𝐫𝐞 *𝐃𝐞𝐩𝐥𝐨𝐲**❞ 
 
-Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy*** 
 
 ---
 
