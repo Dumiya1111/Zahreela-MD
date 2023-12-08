@@ -1,6 +1,6 @@
-## `Zahreela-MD`
+## 𝙕𝘼𝙃𝙍𝙀𝙀𝙇𝘼-𝙈𝘿
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its zarheela-MD;Multi+Device+Whatsapp+Bot;Developed +By+Haseeb " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝙕𝘼𝙃𝙍𝙀𝙀𝙇𝘼-𝙈𝘿;𝙈𝙪𝙡𝙩𝙞+𝘿𝙚𝙫𝙞𝙘𝙚+𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥+𝘽𝙤𝙩;𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙+𝘽𝙮+𝘼𝘽𝘿𝙐𝙇𝙇𝘼𝙃 𝙅𝙐𝙏𝙏 " alt="Typing SVG" /></a>
   
   
 <p align="center">
@@ -43,7 +43,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 2. Scan the QR and upload the `Session` to ***ZARHEELA-SECTION*** 
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@techmanwasi/zarheela11?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
@@ -97,7 +97,7 @@ After this fill the vars by your own information and paste this JSON to your Rep
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "HASEEB",
+  "OWNER_NAME": "Abdullah ",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
   "PACK_INFO": "ZARHEELA;MD",
@@ -329,14 +329,14 @@ Choose your repo
 
 <div align="center">
   
-| [![Haseebofc](https://github.com/abdullahjuttofc.png?lenght=50width=50)](https://github.com/abdullahjuttofc)|
+| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=50width=50)](https://github.com/abdullahjuttofc)|
 |----|
-| [ HASEEB  ](https://github.com/abdullahjuttofc) |
+| [ Abdullah Jutt ](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![WASI ](https://github.com/itxxwasi.png?lenght=50width=50)](https://github.com/itxxwasi) |
+| [![WASI ](https://github.com/itxxwasi.png?lenght=30width=30)](https://github.com/itxxwasi) |
 |----|
 | [ WASI Tech](https://github.com/itxxwasi) |
 |  Co.Owner , Bug Fixer, |
@@ -348,7 +348,7 @@ Choose your repo
 
   ## `Support`
 
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
+For support, email [ [jutt420official@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
@@ -374,7 +374,7 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 ---
 
 </p>
-<h1 align="center"> Thanks To  SALMANYTOFFICAL
+<h1 align="center"> Thanks To MH MODS OFC YT
 </h1>
 
  <br><br>
