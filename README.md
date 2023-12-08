@@ -83,46 +83,12 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 ## `Installation`
 
-1.Replit Installation
 
-Paste This on the replit shell to run the Bot
-
-```
-npm install
-```
-
-After this fill the vars by your own information and paste this JSON to your Replit shell
-
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "Abdullah ",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "required",
-  "PACK_INFO": "ZARHEELA;MD",
-  "PREFIX": "."
-   
-}
-```
-
-
-2.Okteto Installation
-Go to Okteto
-
-
-```
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
-
-3.Heroku Installation 
+1.Heroku Installation 
 [HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH)
 
 
-4.Deploy On Vps
+2.Deploy On Vps
 [Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
 
 
@@ -259,69 +225,6 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <br>
-    __________________________
-    <br>
-
-</p>
-
-
-
-<br>
-
-<h4 align="center"> Deploy on Mogenius
-</h4>
-  
-<p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
-    </a>
-    
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on Uffizzi
-</h4>
-  
-<p align="center">
-    <a href="https://www.uffizzi.com/">
-    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
-    </a>
-    
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on BoxMineWorld
-</h4>
-  
-<p align="center">
-    <a href="https://dash.boxmineworld.com/">
-    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
-    </a>
-    <br>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-</details>
-
-<br>
-
 
 
 
@@ -348,16 +251,27 @@ Choose your repo
 
   ## `Support`
 
-For support, email [ [jutt420official@gmail.com ] or join our whatsapp group.
+    
+***Subscribe MY YouTube Channel***
+</p>
+<p align="left">
+  <a href="https://www.youtube.com/@mhmodsofc?sub_confirmation=1">
+    <img alt=Support height="90" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
+  </p>
+    
+ ## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
+ <p align="centre">
+  <a href="mailto:HELP_jutt420official@gmail.com ">
+    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
+   <a href="https://wa.me/923277337485?text=Hi%20Abdullah%20Sir...%20I%20need%20some%20help%20in%20Zahreela-MD">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/I4kcXIsDKBe3mYPrvuwCYi" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://wa.me/923407472645?text=Hi!! Haseeb Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+
 
 **
 
