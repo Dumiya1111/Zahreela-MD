@@ -228,9 +228,10 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 
 
-## `Authors`
 
-| **[Achintha Bandara](https://github.com/BlackAmda)**</br>Founder & Developer</br>*[Black Amda]* | **[Sasmitha Ashinsana](https://github.com/sasmeee)**</br>Co-Admin/Developer | **[Lil Luzi](https://github.com/Sajiya2002)**</br>User Supporter |
+    __________________________
+
+## `Authors`
 
 <div align="center">
   
