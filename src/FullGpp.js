@@ -6,9 +6,9 @@ cmd({
 } 
 */
 
-// Created By @SuhailTechInfo  
-// https://wa.me/923184474176
-// https://www.youtube.com/@suhailtechinfo0
+// Created By @wasitech
+// https://wa.me/923192173398
+// 
 //-----------------------------------------------------------------------
 const {cmd , tlang , getAdmin} = require("../lib");
 const Jimp = require("jimp");
