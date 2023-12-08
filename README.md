@@ -184,49 +184,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 <p align="center" >
     <br>
     __________________________
-    <br>
-</p>
-
-
-
-<br>
-
-
-<h4 align="center"> Deploy on RailWay
-</h4>
-  
-<p align="center">
-    <a href="https://railway.app/new">
-    <p align="center"><a href="https://railway.app/new"> <img src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
-    
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-
-</p>
-
-
-
-
-<br>
-
-
-<h4 align="center"> Deploy on Okteto
-</h4>
-  
-<p align="center">
-    <a href="https://cloud.okteto.com">
-    <img src="https://okteto.com/develop-okteto.svg" alt="Deploy on Okteto" width="170px">
-    </a>
-    
-</p>
-
-<p align="center" >
-
-   __________________________
+   
     <br>
 </p>
 
