@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/salmanytofficial/XLICON-MD
-      cd XLICON-MD
+      git clone https://github.com/abdullahjuttofc/Zahreela-MD
+      cd Zahreela-MD
       yarn install --network-concurrency 1
       ```
 
