@@ -329,7 +329,7 @@ Choose your repo
 
 <div align="center">
   
-| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=50width=50)](https://github.com/abdullahjuttofc)|
+| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=30width=30)](https://github.com/abdullahjuttofc)|
 |----|
 | [ Abdullah Jutt ](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
