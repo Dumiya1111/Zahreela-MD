@@ -1,22 +1,21 @@
-## `XLICON-MD`
+## `Zahreela-MD`
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its zarheela-MD;Multi+Device+Whatsapp+Bot;Developed +By+Haseeb " alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/a977a8d211aa28ddc4d54.jpg"> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
-    
+    <h1 align="center">Zarheela-1.O<br></h1>
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD"><img title="Author" src="https://img.shields.io/badge/zarheela-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
 <a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
@@ -26,7 +25,7 @@
 
 </br>
 
-<h2 align="center"> Star the repo if u like it🌟
+<h2 align="center"> Star the repo if u like it and depoly 🌟
 </h2>
 
 ## `Notice`
@@ -40,9 +39,9 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD/fork"><img title="ZARHEELA-1.0" src="https://img.shields.io/badge/FORK ZARHEELA-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***ZARHEELA-SECTION*** 
     <br>
 <a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
@@ -75,7 +74,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 
 ```
-mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
@@ -98,10 +97,10 @@ After this fill the vars by your own information and paste this JSON to your Rep
 {
   "SESSION_ID": "ID-Here",
   "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NAME": "HASEEB",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
-  "PACK_INFO": "WABOT;Xlicon",
+  "PACK_INFO": "ZARHEELA;MD",
   "PREFIX": "."
    
 }
@@ -330,16 +329,16 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
+| [![Haseebofc](https://github.com/abdullahjuttofc.png?lenght=50width=50)](https://github.com/abdullahjuttofc)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+| [ HASEEB  ](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
+| [![WASI ](https://github.com/itxxwasi.png?lenght=50width=50)](https://github.com/itxxwasi) |
 |----|
-| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [ WASI Tech](https://github.com/itxxwasi) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
@@ -360,12 +359,7 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-**Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ahmmikun">
-  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
-
+**
 
 </br>
 
@@ -376,25 +370,11 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
- 
-
-
-
-</br></br>
-<h1 align="left">  ✨Spacial Thanks To🎯
-</h1>
-
-* [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
-* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
-* 
 
 ---
 
 </p>
-<h1 align="center"> Thanks To  SuhailTechInfo
+<h1 align="center"> Thanks To  SALMANYTOFFICAL
 </h1>
 
  <br><br>
