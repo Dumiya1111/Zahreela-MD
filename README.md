@@ -244,14 +244,14 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 <div align="center">
   
-| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=30width=30)](https://github.com/abdullahjuttofc)|
+| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=10width=10)](https://github.com/abdullahjuttofc)|
 |----|
 | [ Abdullah Jutt ](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![WASI ](https://github.com/itxxwasi.png?lenght=30width=30)](https://github.com/itxxwasi) |
+| [![WASI ](https://github.com/itxxwasi.png?lenght=10width=10)](https://github.com/itxxwasi) |
 |----|
 | [ WASI Tech](https://github.com/itxxwasi) |
 |  Co.Owner , Bug Fixer, |
