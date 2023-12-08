@@ -352,10 +352,10 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/I4kcXIsDKBe3mYPrvuwCYi" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/923407472645?text=Hi!! Haseeb Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
