@@ -5,7 +5,7 @@
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/a977a8d211aa28ddc4d54.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/e873906b5df6f4dd75793.jpg"> 
     </p>
     <h1 align="center">Zarheela-1.O<br></h1>
    </a>
