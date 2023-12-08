@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : Secktor-Md
  * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @description : Zahreela ,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -154,7 +154,7 @@ axios.get(url, { responseType: 'stream' })
                     }
                   Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
 
-    console.log('File downloaded successfully');
+    console.log('File downloaded successfully BY Zahreela-MD');
 
   
     fs.unlink(filePath, (err) => {
@@ -226,7 +226,7 @@ cmd({
             if (!isUrl(text.split(" ")[0]) && !text.split(" ")[0].includes("mediafire.com")) return reply(`The link you provided is invalid`);
             const baby1 = await mediafire(text);
             if (baby1[0].size.split("MB")[0] >= 999) return reply("*File Over Limit* " + util.format(baby1));
-            const result4 = `*ᴵᶻᵁᴷᵁ Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
+            const result4 = `*Zahreela-MD Mᴇᴅɪᴀғɪʀᴇ Dᴏᴡɴʟᴏᴀᴅᴇʀ*
 *Nᴀᴍᴇ* : ${baby1[0].nama}
 *Sɪᴢᴇ* : ${baby1[0].size}
 *Mɪᴍᴇ* : ${baby1[0].mime}
@@ -291,7 +291,7 @@ cmd({
         },
 
         async(Void, citel, text) => {
- if(!text) return await citel.reply(`*Uhh Please, Provide me tiktok Video Url*\n*_Ex .tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`);
+ if(!text) return await citel.reply(`*Uhh Please, Provide me tiktok Video Url*\n*_Ex .tiktok https://vt.tiktok.com/ZSNXoLaAt/*`);
  let txt = text ? text.split(" ")[0]:'';
  if (!/tiktok/.test(txt)) return await citel.send(`*Uhh Please, Give me Valid Tiktok Video Url!*`);
  const { status ,thumbnail, video, audio } = await tiktokdl(txt)
@@ -402,7 +402,7 @@ cmd({
                     url: anu.thumbnail,
                 },
                 caption: `
-╭─┈ ⋞ 〈 Xʟɪᴄᴏɴ-Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ 🦄〉 ⋟ ┈─╗
+╭─┈ ⋞ 〈Zahreela-MD-Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ 🦄〉 ⋟ ┈─╗
 ﹀
 ⌲🎐 *Youtube Player* ✅
 ⌲🐉 *Title:* ${anu.title}
@@ -529,7 +529,7 @@ cmd({
                 let yts = require("secktor-pack")
                 let search = await yts(text);
                 let i = search.all[1] ;
-                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*Xʟɪᴄᴏɴ271-Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ*" ;
+                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*ZAHREELA-MD-Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ*" ;
                 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap });
            
            
@@ -585,7 +585,7 @@ cmd({
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
-            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•`);
+            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •ZAHREELA-MD-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•`);
             let search = await yts(text);
             let textt = "*YouTube Search*\n Result From " + text + "\n   ─────────────────── \n";
             let no = 1;
@@ -627,7 +627,7 @@ cmd({
                 let urlYt = text;
                 if (!urlYt.startsWith("http")) return citel.reply(`❌ Give youtube link!`);
                 let infoYt = await ytdl.getInfo(urlYt);
-                 if(infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
+                 if(infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ YA OQAT SY BAHR HA RY!`);
                 let titleYt = infoYt.videoDetails.title;
                 let randomName = getRandom(".mp4");
 
@@ -805,9 +805,9 @@ cmd({
 
 
 
-// By @•xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•
-// https://wa.me/8801853262586
-// https://www.youtube.com/@suhailtechinfo0
+// By @ZAHREELA-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•
+// https://wa.me/923277337485
+// https://www.youtube.com/@mhmodsofc
 
 
 
@@ -822,7 +822,7 @@ async(Void, citel, text) => {
 if (!text) return await citel.reply(`*_Ohh PLease, Give Me Song Name_*`);
 let search = await yts(text)
 let i = search.all[1] ;
-let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•*" ;
+let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•ZAHREELA-MD-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•*" ;
 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap })
 })
 */
