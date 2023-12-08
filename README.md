@@ -118,7 +118,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
     <br>
 
     __________________________
-    <br>
+    
 </p>
 
 
@@ -141,7 +141,6 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
     <br>
      __________________________
    
-    <br>
 </p>
 
 
