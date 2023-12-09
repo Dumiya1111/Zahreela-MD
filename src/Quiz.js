@@ -1,4 +1,4 @@
-//PLUGIN CREDITS GOES TO excelottah6 OWNER OF IZUKU-MD
+//PLUGIN CREDITS GOES TO excelottah6 OWNER OF IZUKU-MD BOT
 
 const { cmd, getRandomInt } = require('../lib');
 
