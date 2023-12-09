@@ -12,6 +12,7 @@
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE ZAHREELA BOT",
+	  "value": "I am alive now"
      "required" :true
     },
     "AUTO_STATUS_SAVER": {
