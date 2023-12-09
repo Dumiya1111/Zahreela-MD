@@ -130,7 +130,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Zahreela-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/abdullahjuttofc/Zahreela-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
