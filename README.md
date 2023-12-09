@@ -7,21 +7,21 @@
   <a href="">
     <img alt=Support height="300" src="https://telegra.ph/file/772a4a9bc373ccb7132be.jpg"> 
     </p>
-    <h1 align="center">Zarheela-1.O<br></h1>
+    <h1 align="center">ZAHREELA-1.O<br></h1>
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/abdullahjuttofc/Zahreela-MD"><img title="Author" src="https://img.shields.io/badge/zarheela-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD"><img title="Author" src="https://img.shields.io/badge/ZAHREELA-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/abdullahjuttofc/Zahreela-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/abdullahjuttofc?label=Followers&style=social"></a>
+<a href="https://github.com/abdullahjuttofc/ZAHREELA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/abdullahjuttofc/ZAHREELA-MD?&style=social"></a>
+<a href="https://github.com/abdullahjuttofc/ZAHREELA-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/abdullahjuttofc/ZAHREELA-MD?style=social"></a>
+<a href="https://github.com/abdullahjuttofc/ZAHREELA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/abdullahjuttofc/ZAHREELA-MD?label=Watching&style=social"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{abdullahjuttofc}/count.svg" alt="ABDULLAH JUTT :: Visitor's Count" /></p>
 
 </br>
 
@@ -39,7 +39,7 @@
 
 1. Fork the repo
     <br>
-<a href="https://github.com/abdullahjuttofc/Zahreela-MD/fork"><img title="ZARHEELA-1.0" src="https://img.shields.io/badge/FORK ZARHEELA-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/abdullahjuttofc/Zahreela-MD/fork"><img title="ZAHREELA-1.0" src="https://img.shields.io/badge/FORK ZAHREELA-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***ZARHEELA-SECTION*** 
     <br>
@@ -47,7 +47,7 @@
 
 3. Scan Qr
     <br>
-<a href='https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@techmanwasi/zarheela11?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
