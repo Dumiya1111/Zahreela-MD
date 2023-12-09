@@ -1,7 +1,7 @@
 { 
   "name": "ZAHREELA-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/a977a8d211aa28ddc4d54.jpg",
+  "logo": "https://telegra.ph/file/b5532968100bcf955cc80.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "zarheela Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
