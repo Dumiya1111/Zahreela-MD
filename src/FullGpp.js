@@ -6,8 +6,8 @@ cmd({
 } 
 */
 
-// Created By @wasitech
-// https://wa.me/923192173398
+// Created By @abdullahjuttofc
+// https://wa.me/923277337485
 // 
 //-----------------------------------------------------------------------
 const {cmd , tlang , getAdmin} = require("../lib");
