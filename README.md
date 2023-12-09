@@ -160,7 +160,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 <br>
 
 
-| [ 🅰🅱🅳🆄🅻🅻🅰🅷 🅹🆄🆃🆃](https://github.com/abdullahjuttofc) |
+| [ 𒅒𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗵 𝗝𝘂𝘁𝘁𒅒](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 | [ [ 𝐇𝐀𝐒𝐄𝐄𝐁 𝐉𝐔𝐓𝐓](https://github.com/chhaseeb47) |
