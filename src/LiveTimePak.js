@@ -3,10 +3,10 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Lyfee 2.0
- * @author : Suhail <https://github.com/SuhailTechInfo>
- * @description : Lyfee 2.0,A Multi-functional whatsapp bot.
- * @version 1.0.0
+ * @project_name : ZAHREELA-MD
+ * @author : Abdullah <https://github.com/abdullahjuttofc>
+ * @description : ZAHREELA-MD,A Multi-functional whatsapp bot.
+ * @version 0.0.1
  **/
 
 const { cmd, botpic, Config, tlang,getBuffer, prefix } = require('../lib')
@@ -42,12 +42,12 @@ const q = {
   },
   message: {
         "orderMessage": {
-           "itemCount" : suhail[Math.floor(8*Math.random())],
+           "itemCount" : Abdullah[Math.floor(8*Math.random())],
            "status": 1,
            "surface" : 1,
-           "message": `❏ ${Config.botname} ➬ Whatsapp Bot BY Suhail SER`,
+           "message": `❏ ${Config.botname} ➬ Whatsapp Bot BY Abdullah Jutt`,
            "orderTitle": "alive",
-           "sellerJid": '923184474176@s.whatsapp.net' 
+           "sellerJid": '923277337485@s.whatsapp.net' 
         }
       }
 }
