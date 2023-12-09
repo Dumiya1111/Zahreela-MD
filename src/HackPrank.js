@@ -18,7 +18,7 @@ cmd({
 
         async(Void,citel, text) => {
 
-citel.reply("```Injecting malware```")
+citel.reply("```ZAHREELA-MD is Injecting malware```")
 
 await sleep(1000)
 
