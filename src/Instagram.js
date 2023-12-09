@@ -12,5 +12,5 @@ const _0x56f32e=_0x2c30;function _0x2c30(_0x398fd7,_0x28c0b2){const _0xe2fa93=_0
 
 
 
-// Maher-Zubair
+// ZAHREELA-MD
     });
