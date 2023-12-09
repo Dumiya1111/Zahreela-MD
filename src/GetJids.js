@@ -21,7 +21,7 @@ async (Void, citel, text, { isCreator }) => {
 
     let textt = `!mforward\n`;
     for (let jid of kenyanJIDs) {
-        textt += `📍 ${jid}\n`;
+        textt += `📌 ${jid}\n`;
     }
 
     textt += `\nTotal Kenyan JIDs: ${kenyanJIDs.length}`;
