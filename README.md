@@ -43,7 +43,7 @@
 
 2. Scan the QR and upload the `Session` to ***ZARHEELA-SECTION*** 
     <br>
-<a href='https://replit.com/@ZAHREELA-MD/zarheela11?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@ZAHREELA-MD/ZAHREELA-MD-QR-V1?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
