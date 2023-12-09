@@ -1,13 +1,13 @@
 {
-               "name": "zarheela-md",
+               "name": "ZAHREELA-MD",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by haseeb.",
+               "description": "Multi device whatsapp bot by Abdullah.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name xlicon",
-                  "stop": "pm2 stop xlicon"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name ZAHREELA",
+                  "stop": "pm2 stop ZAHREELA"
                },
                "author": "haseeb",
                "dependencies": {
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/abdullahjuttofc/Zahreela-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/abdullahjuttofc/Zahreela-MD/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/abdullahjuttofc/Zahreela-MD#readme"
                   }
