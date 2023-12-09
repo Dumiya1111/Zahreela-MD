@@ -3,10 +3,10 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md By Suhail Tech
- * @author : SuhailTech <https://www.youtube.com/c/SuhailTechInfo>
- * @description : Secktor Bot ,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @project_name  ZAHREELA-MD bY Abdullah Jutt
+ * @author : Abdullah <https://www.github.com/abdullahjuttofc>
+ * @description : ZAHREELA-MD ,A Multi-functional whatsapp bot.
+ * @version 0.0.1
  **/
 const axios = require('axios');
 const fs = require('fs-extra')
