@@ -150,29 +150,30 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 <br>
 
 
+## DEVELOPER , Authors
+<div align="left">
+  <a href="[https://github.com/abdullahjuttofc.png]"><img src="https://github.com/abdullahjuttofc.png" width="150" height="200" alt="Ash"/></a
+  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
+  <a href="[https://github.com/itxxwasi]"><img src="https://github.com/itxxwasi.png" width="150" height="200" alt="Ash"/></a>
+>
+ </div>
+<br>
 
-  
 
-## `Authors`
-
-<div align="center">
-  
-| [![Abdullah Jutt](https://github.com/abdullahjuttofc.png?lenght=10width=10)](https://github.com/abdullahjuttofc)|
-|----|
-| [ Abdullah Jutt ](https://github.com/abdullahjuttofc) |
+| [ 🅰🅱🅳🆄🅻🅻🅰🅷 🅹🆄🆃🆃](https://github.com/abdullahjuttofc) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
-<br>
-  
-| [![WASI ](https://github.com/itxxwasi.png?lenght=10width=10)](https://github.com/itxxwasi) |
-|----|
-| [ WASI Tech](https://github.com/itxxwasi) |
-|  Co.Owner , Bug Fixer, |
+| [ [ 𝐇𝐀𝐒𝐄𝐄𝐁 𝐉𝐔𝐓𝐓](https://github.com/chhaseeb47) |
+| Youtube Support|
 
-  </div>
+| [ [WASI ](https://github.com/itxxwasi) |
+| Co.Owner, Bug Fixer |
+
+
+
   
    
-  </br> 
+  </br>
 
   ## `Support`
 
