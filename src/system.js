@@ -3,10 +3,10 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md By Suhail
- * @author : SuhailTechInfo <https://github.com/SuhailTechInfo>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @project_name : ZAHREELA-MD By Abdullah
+ * @author : Abdullahjutt <https://github.com/abdullahjuttofc>
+ * @description : ZAHREELA,A Multi-functional whatsapp bot.
+ * @version 0.0.1
  **/
 
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang,fetchJson, botpic, runtime, prefix, Config ,alive  } = require('../lib')
@@ -342,7 +342,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SALMAN AHMAD.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Abdullah Jutt.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
