@@ -3,10 +3,10 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : XLICON-MD
- * @author : SalmanYtOfficial <https://github.com/salmanytofficial>
- * @description : XLICON ,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @project_name : ZAHREELA-MD
+ * @author : abdullahjuttofc <https://github.com/abdullahjuttofc>
+ * @description : ZAHREELA ,A Multi-functional whatsapp bot.
+ * @version 0.0.1
  **/
 
 const moment = require('moment-timezone')
@@ -167,7 +167,7 @@ cmd({
 
                 let n = await gis(name1)
                     images = n[Math.floor(Math.random() * n.length)].url;
-                    await Void.sendMessage(citel.chat, {image: {  url: images,}, caption: `_Xlicon Image Search_\n*${name1}*`,}, { quoted: citel, });
+                    await Void.sendMessage(citel.chat, {image: {  url: images,}, caption: `_ZAHREELA Image Search_\n*${name1}*`,}, { quoted: citel, });
             }
         }
     )
@@ -190,12 +190,12 @@ cmd({
         pattern: "iswa",
         category: "search",
         desc: "Searches in given rage about given number.",
-        use: '9112345678xx',
+        use: '9232773374xx',
         filename: __filename,
     },
     async(Void, citel, text) => {
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return citel.reply('You did not add x\nExample: iswa 9196285162xx')
+        if (!inputnumber.includes('x')) return citel.reply('You did not add x\nExample: iswa 9232772374xx')
         citel.reply(`Searching for WhatsApp account in given range...`)
 
         function countInstances(string, word) {
